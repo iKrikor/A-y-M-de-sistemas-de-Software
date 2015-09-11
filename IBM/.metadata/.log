@@ -1,0 +1,155 @@
+!SESSION Thu Sep 10 20:13:42 CDT 2015 ------------------------------------------
+!ENTRY org.eclipse.equinox.launcher 4 0 2015-09-10 20:13:42.912
+!MESSAGE Could not find extension: com.ibm.cds
+!SESSION 2015-09-10 20:13:42.865 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.7.0_75
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product com.ibm.rational.rsa.product.v91.ide
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product com.ibm.rational.rsa.product.v91.ide
+
+!ENTRY org.eclipse.osgi 4 0 2015-09-10 20:13:44.052
+!MESSAGE Bundle com.ibm.cds not found.
+
+!ENTRY org.eclipse.core.net 1 0 2015-09-10 20:14:42.419
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.jface 2 0 2015-09-10 20:14:42.726
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2015-09-10 20:14:42.726
+!MESSAGE A conflict occurred for ALT+COMMAND+C:
+Binding(ALT+COMMAND+C,
+	ParameterizedCommand(Command(org.eclipse.datatools.sqltools.result.copyInstance,Copy Result,
+		,
+		Category(org.eclipse.datatools.sqltools.result.category,SQL Results View,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@13ab42bd,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+COMMAND+C,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.modify.method.parameters,Change Method Signature,
+		Change method signature includes parameter names and parameter order,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		org.eclipse.ui.internal.MakeHandlersGo@50aa9061,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,cocoa,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2015-09-10 20:14:42.726
+!MESSAGE A conflict occurred for ALT+COMMAND+R:
+Binding(ALT+COMMAND+R,
+	ParameterizedCommand(Command(com.ibm.ccl.soa.deploy.core.ui.openRequirementsPropertyFlyout,Requirements Flyout,
+		Requirements Flyout,
+		Category(com.ibm.ccl.soa.deploy.core.ui.zephyr.commands,Topology Definition Model Editor,Commands for editor Quick Popup Dialogs,true),
+		org.eclipse.ui.internal.MakeHandlersGo@6decf9a6,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+COMMAND+R,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		org.eclipse.ui.internal.MakeHandlersGo@60fa39ab,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,cocoa,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2015-09-10 20:14:42.726
+!MESSAGE A conflict occurred for ALT+COMMAND+I:
+Binding(ALT+COMMAND+I,
+	ParameterizedCommand(Command(com.ibm.ccl.soa.deploy.core.ui.openQuickFixDialog,QuickFix Dialog,
+		Open QuickFix Dialog,
+		Category(com.ibm.ccl.soa.deploy.core.ui.zephyr.commands,Topology Definition Model Editor,Commands for editor Quick Popup Dialogs,true),
+		org.eclipse.ui.internal.MakeHandlersGo@4be03b4a,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+COMMAND+I,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.inline,Inline,
+		Inline a constant, local variable or method,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		org.eclipse.ui.internal.MakeHandlersGo@6e549e30,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,cocoa,system)
+
+!ENTRY com.ibm.xtools.emf.ram.ui 4 0 2015-09-10 20:14:49.267
+!MESSAGE RAM Client is not installed. Please install the RAM Client to enable the RAM integration functionality.
+!SESSION Thu Sep 10 20:53:23 CDT 2015 ------------------------------------------
+!ENTRY org.eclipse.equinox.launcher 4 0 2015-09-10 20:53:23.855
+!MESSAGE Could not find extension: com.ibm.cds
+!SESSION 2015-09-10 20:53:23.809 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.7.0_75
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product com.ibm.rational.rsa.product.v91.ide
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product com.ibm.rational.rsa.product.v91.ide
+
+!ENTRY org.eclipse.osgi 4 0 2015-09-10 20:53:24.613
+!MESSAGE Bundle com.ibm.cds not found.
+
+!ENTRY org.eclipse.core.resources 2 10035 2015-09-10 20:53:31.128
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.core.net 1 0 2015-09-10 20:53:33.431
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.jface 2 0 2015-09-10 20:53:33.724
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2015-09-10 20:53:33.724
+!MESSAGE A conflict occurred for ALT+COMMAND+C:
+Binding(ALT+COMMAND+C,
+	ParameterizedCommand(Command(org.eclipse.datatools.sqltools.result.copyInstance,Copy Result,
+		,
+		Category(org.eclipse.datatools.sqltools.result.category,SQL Results View,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@68c8af42,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+COMMAND+C,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.modify.method.parameters,Change Method Signature,
+		Change method signature includes parameter names and parameter order,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		org.eclipse.ui.internal.MakeHandlersGo@4f6a4bcc,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,cocoa,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2015-09-10 20:53:33.724
+!MESSAGE A conflict occurred for ALT+COMMAND+R:
+Binding(ALT+COMMAND+R,
+	ParameterizedCommand(Command(com.ibm.ccl.soa.deploy.core.ui.openRequirementsPropertyFlyout,Requirements Flyout,
+		Requirements Flyout,
+		Category(com.ibm.ccl.soa.deploy.core.ui.zephyr.commands,Topology Definition Model Editor,Commands for editor Quick Popup Dialogs,true),
+		org.eclipse.ui.internal.MakeHandlersGo@4b9666cf,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+COMMAND+R,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		org.eclipse.ui.internal.MakeHandlersGo@7f37c6cd,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,cocoa,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2015-09-10 20:53:33.724
+!MESSAGE A conflict occurred for ALT+COMMAND+I:
+Binding(ALT+COMMAND+I,
+	ParameterizedCommand(Command(com.ibm.ccl.soa.deploy.core.ui.openQuickFixDialog,QuickFix Dialog,
+		Open QuickFix Dialog,
+		Category(com.ibm.ccl.soa.deploy.core.ui.zephyr.commands,Topology Definition Model Editor,Commands for editor Quick Popup Dialogs,true),
+		org.eclipse.ui.internal.MakeHandlersGo@26dcfdfb,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+COMMAND+I,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.inline,Inline,
+		Inline a constant, local variable or method,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		org.eclipse.ui.internal.MakeHandlersGo@76a67dab,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,cocoa,system)
+
+!ENTRY com.ibm.xtools.emf.ram.ui 4 0 2015-09-10 20:53:40.862
+!MESSAGE RAM Client is not installed. Please install the RAM Client to enable the RAM integration functionality.
